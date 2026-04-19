@@ -33,3 +33,4 @@ A high-quality, modern educational quiz game built with **Unity** and **C#**. Th
 
 ---
 *Created with passion for Education and Premium Design.*
+*contribution : mbinn-spec, Luckyfr1945*
